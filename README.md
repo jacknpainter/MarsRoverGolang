@@ -15,3 +15,4 @@ Due to inexperience with Golang, I feel as if I could make many further improvem
 - Finding more efficient ways of storing/managing data and executing functions on that data
 - Learning how to properly split the program into multiple files so as to make the code more human readable
 - Learning how to represent data in Golang with certain datatypes that aren't available as they are in other languages, such as Enums
+- Adding more type checking and input checking to ensure that erroneous values cannot be entered
